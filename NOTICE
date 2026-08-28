@@ -1,0 +1,14 @@
+supermemory-akka
+Copyright 2026 Tyler Jewell
+
+This software was written for the Akka Specify port experiment and is licensed
+under the Apache License, Version 2.0. See LICENSE.
+
+It is a clean-room implementation: written against a specification derived by
+running supermemoryai/supermemory (https://github.com/supermemoryai/supermemory) and recording what it does, not by
+translating its source.
+
+No source from supermemoryai/supermemory is shipped here. That project, Copyright 2025 supermemory
+and licensed under MIT, was the subject of the specification this software was
+written against -- not a source of its code. See ACKNOWLEDGEMENTS.md for any text
+carried across and why.
